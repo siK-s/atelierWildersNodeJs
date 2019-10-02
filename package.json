@@ -1,0 +1,16 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
